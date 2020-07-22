@@ -1,0 +1,25 @@
+{
+  "name": "todolist",
+  "version": "1.0.0",
+  "description": "\"\"\u001b[DThis is a test directory to make todolistapplication",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AhmedSiddiqui-alt/ToDoList_Application_With_Html_Css_Java-Script.git"
+  },
+  "author": "\"\"\u001b[DMuhammad Ahmed Sidi\u001b[Dd\u001b[C\u001b[Diqui\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AhmedSiddiqui-alt/ToDoList_Application_With_Html_Css_Java-Script/issues"
+  },
+  "homepage": "https://github.com/AhmedSiddiqui-alt/ToDoList_Application_With_Html_Css_Java-Script#readme",
+  "dependencies": {
+    "lite-server": "^2.5.4",
+    "save-dev": "0.0.1-security"
+  }
+}
