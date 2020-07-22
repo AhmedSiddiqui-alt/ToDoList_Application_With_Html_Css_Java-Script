@@ -1,0 +1,45 @@
+body {
+  /* The image used */
+  background-image: url("./vitor-santos-GOQ32dlahDk-unsplash.jpg");
+
+  /* Full height */
+  height:100%;
+
+  /* Center and scale the image nicely */
+ 
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.bigBox{
+    margin: 0 auto;
+    width: 520px;
+}
+.stylingOfInputField{
+    width: 500px;
+    height: 50px
+}
+.buttonBox1{
+    margin: 5px;
+    
+}
+.buttonBox2{
+    margin: 5px;
+}
+.designButtons{
+    border-radius: 60px;
+    background-color: rgb(151, 99, 21);
+    color:white;
+height: 90px;
+width: 90px;
+border: none;
+outline-style:none;
+font-size: 20px;
+}
+.flexBox{
+    display: flex;
+    justify-content: space-around;
+}
+.desiginingHeading{
+    background-color: rgb(151, 99, 21);
+    color: white;
+}
