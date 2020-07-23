@@ -16,6 +16,7 @@ body {
 }
 .stylingOfInputField{
     width: 500px;
+    font-size: 20px;
     height: 50px
 }
 .buttonBox1{
@@ -42,4 +43,34 @@ font-size: 20px;
 .desiginingHeading{
     background-color: rgb(151, 99, 21);
     color: white;
+}
+.deleteButton{
+    border-radius: 40px;
+    background-color: rgb(151, 99, 21);
+    color:white;
+height: 60px;
+width: 60px;
+border: none;
+outline-style:none;
+font-size: 15px;
+margin: 15px;
+}
+.editButton{
+    border-radius: 40px;
+    background-color: rgb(151, 99, 21);
+    color:white;
+height: 60px;
+width: 60px;
+border: none;
+outline-style:none;
+font-size: 15px;
+margin: 15px;
+}
+.listStyle{
+    text-align: center;
+    font-size: 20px;
+    color: white;
+}
+.styleOfUl{
+    justify-content: space-around;
 }

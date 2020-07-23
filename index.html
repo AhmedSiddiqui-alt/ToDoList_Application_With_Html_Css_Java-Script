@@ -16,19 +16,26 @@
             </h1>
         </center>
         
-        <input type="todoItems" name="" id="" class="stylingOfInputField">
+        <input type="todoItems" name="" id="getValueFromInput" class="stylingOfInputField">
         <div class="flexBox"> 
             <div class="buttonBox1">
-                <button class="designButtons">Add Items</button>
+                <button class="designButtons" onclick="AddItems()">Add Items</button>
             </div>
             <div class="buttonBox2">
-                <button class="designButtons">
+                <button class="designButtons" onclick="DeleteAllItems()">
                     Delete Items
                 </button>
-
             </div>
+        </div>
+        <div>
+            <ul id="createList" class="styleOfUl">
+
+            </ul>
+            
+                
+            
         </div>
     </div>
 </body>
-
+<script src="./app.js"></script>
 </html>
